@@ -236,6 +236,8 @@ Open Source - Tự do sử dụng
 Mọi đóng góp, phát triển tính năng mới được chào đón!
 
 ---
+## Báo cáo sản phẩm: https://drive.google.com/file/d/1kxtcTPaEcF5R5haykLTxmwOMemZfZ4ZK/view?usp=sharing
+## Demo sản phẩm: https://drive.google.com/file/d/19x2izuC8haqBcU_1MXEIEuix6bhftg5H/view?usp=sharing
 
 **Tác giả**: PickleDB Contributors  
 **Phiên bản**: 1.0.0  
